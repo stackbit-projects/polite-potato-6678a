@@ -76,7 +76,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: Criar os melhores sites
     - name: 'twitter:description'
       value: Todas as dicas e melhores tools para criar verdadeiros sites profissionais
     - name: 'twitter:image'

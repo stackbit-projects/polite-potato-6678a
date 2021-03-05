@@ -64,7 +64,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: Criar os melhores sites
       keyName: property
     - name: 'og:description'
       value: Todas as dicas e melhores tools para criar verdadeiros sites profissionais

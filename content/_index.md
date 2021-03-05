@@ -78,7 +78,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Exto Theme
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: Todas as dicas e melhores tools para criar verdadeiros sites profissionais
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true

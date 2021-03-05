@@ -4,7 +4,7 @@ params:
   color_scheme: light
   accent_color: pink
   header:
-    title: Exto
+    title: DPTO
     has_nav: true
     nav_links:
       - label: Home

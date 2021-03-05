@@ -58,7 +58,7 @@ sections:
         style: button
 seo:
   title: Criar os melhores sites
-  description: The preview of the Exto theme
+  description: Todas as dicas e melhores tools para criar verdadeiros sites profissionais
   extra:
     - name: 'og:type'
       value: website

@@ -67,7 +67,7 @@ seo:
       value: Stackbit Exto Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: Todas as dicas e melhores tools para criar verdadeiros sites profissionais
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png

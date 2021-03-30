@@ -1,8 +1,8 @@
 ---
 title: SE Ranking
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  Hoje, será a vez do SE Ranking! Aqui estão as minhas impressões sobre o SE
+  Ranking, que tive a oportunidade de utilizar em 2021.
 date: '2019-03-24'
 thumb_image: images/11_thumb.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table

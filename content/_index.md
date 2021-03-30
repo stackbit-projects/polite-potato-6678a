@@ -30,10 +30,8 @@ sections:
     is_numbered: true
     grid_items:
       - title: Sites Wordpress
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          Wordpress é o CMS mais **utilizado do mundo com cerca de 40%**
       - title: Sites estáticos
         content: >
           Utilizamos as **tecnologias seguintes** : Hugo / Next.js / Vue.js /

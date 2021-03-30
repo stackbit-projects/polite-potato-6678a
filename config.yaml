@@ -11,7 +11,7 @@ params:
         url: /
         style: link
       - label: Blog
-        url: /blog/
+        url: 'https://www.terravista.pt/'
         style: link
   footer:
     content: >-

@@ -3,7 +3,7 @@ title: SE Ranking
 excerpt: >-
   Hoje, será a vez do SE Ranking! Aqui estão as minhas impressões sobre o SE
   Ranking, que tive a oportunidade de utilizar em 2021.
-date: '0002-03-24'
+date: '2021-03-24'
 thumb_image: images/11_thumb.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
 image: images/11.jpg

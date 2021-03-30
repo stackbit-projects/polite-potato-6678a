@@ -48,7 +48,10 @@ sections:
     col_number: three
     actions:
       - label: Ver o Blog
-        url: blog
+        url: >-
+          Grav é um projeto de código aberto alojado no GitHub, originado pela
+          Trilby Media mas tornado possível por uma notável comunidade de
+          programadores e utilizadores dedicados.
         style: button
 seo:
   title: Criar os melhores sites

@@ -2,9 +2,9 @@
 title: Ahrefs
 subtitle: 'Apparently, green is my favorite color.'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
-  nam libero justo laoreet sit.
+  Ahrefs é uma empresa de software que desenvolve ferramentas de SEO online e
+  materiais educacionais gratuitos para profissionais de marketing. Ahrefs
+  rasteja a web, armazena toneladas de ...
 date: '2018-01-11'
 thumb_image: images/5_thumb.jpg
 thumb_image_alt: A white gamepad on a green background

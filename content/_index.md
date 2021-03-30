@@ -35,7 +35,9 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
       - title: Sites estáticos
-        content: "Utilizamos as **tecnologias seguintes** :\r\n\n*   Hugo\n\n*   Next.js\n\n*   Vue.js\n\n*   Gatsby\n"
+        content: >
+          Utilizamos as **tecnologias seguintes** : Hugo / Next.js / Vue.js /
+          Gatsby
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero

@@ -41,10 +41,6 @@ sections:
           Grav é um projeto de código aberto alojado no GitHub, originado pela
           Trilby Media mas tornado possível por uma notável comunidade de
           programadores e utilizadores dedicados.
-      - title: Service title
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - section_id: latest-posts
     type: section_posts
     title: Últimas notícias do Blog

@@ -10,7 +10,7 @@ sections:
       sites
     actions:
       - label: Let's talk
-        url: /contact
+        url: /
         style: button
   - section_id: latest-projects
     type: section_portfolio
@@ -67,7 +67,9 @@ seo:
       value: Criar os melhores sites
       keyName: property
     - name: 'og:description'
-      value: Todas as dicas e melhores tools para criar verdadeiros sites profissionais
+      value: >-
+        Todas as dicas e melhores tools para criar verdadeiros sites
+        profissionais
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
@@ -78,7 +80,9 @@ seo:
     - name: 'twitter:title'
       value: Criar os melhores sites
     - name: 'twitter:description'
-      value: Todas as dicas e melhores tools para criar verdadeiros sites profissionais
+      value: >-
+        Todas as dicas e melhores tools para criar verdadeiros sites
+        profissionais
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true

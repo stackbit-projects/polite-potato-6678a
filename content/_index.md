@@ -49,6 +49,7 @@ sections:
     actions:
       - label: Ver o Blog
         style: button
+        url: 'https://www.terravista.pt/'
 seo:
   title: Criar os melhores sites
   description: Todas as dicas e melhores tools para criar verdadeiros sites profissionais

@@ -13,9 +13,6 @@ params:
       - label: Blog
         url: /blog/
         style: link
-      - label: About
-        url: /about/
-        style: link
   footer:
     content: >-
       &copy; Stackbit. All rights reserved. This Jamstack site was created with

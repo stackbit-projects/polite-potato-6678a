@@ -37,10 +37,10 @@ sections:
           Utilizamos as **tecnologias seguintes** : Hugo / Next.js / Vue.js /
           Gatsby
       - title: Grav
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          Grav é um projeto de código aberto alojado no GitHub, originado pela
+          Trilby Media mas tornado possível por uma notável comunidade de
+          programadores e utilizadores dedicados.
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis

@@ -23,7 +23,9 @@ sections:
   - section_id: services
     type: section_grid
     title: O que fazemos
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      Criamos sites estáticos para as empresas que querem apostar nesta
+      tecnologia
     col_number: two
     is_numbered: true
     grid_items:

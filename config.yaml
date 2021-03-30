@@ -20,11 +20,6 @@ params:
       target="_blank" rel="noopener">Stackbit</a>.
     has_social: true
     social_links:
-      - label: Twitter
-        url: 'https://twitter.com/'
-        style: icon
-        icon: twitter
-        new_window: true
       - label: Instagram
         url: 'https://www.instagram.com/'
         style: icon

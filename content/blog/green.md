@@ -1,6 +1,8 @@
 ---
 title: Ahrefs
-subtitle: 'Apparently, green is my favorite color.'
+subtitle: >-
+  Ahrefs é uma ferramenta de SEO. Os nossos especialistas utilizam-no e outras
+  ferramentas porque é bastante completo.
 excerpt: >-
   Ahrefs é uma empresa de software que desenvolve ferramentas de SEO online e
   materiais educacionais gratuitos para profissionais de marketing. Ahrefs

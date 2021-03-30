@@ -5,7 +5,7 @@ excerpt: >-
   Ahrefs é uma empresa de software que desenvolve ferramentas de SEO online e
   materiais educacionais gratuitos para profissionais de marketing. Ahrefs
   rasteja a web, armazena toneladas de ...
-date: '0002-01-11'
+date: '2021-01-11'
 thumb_image: images/5_thumb.jpg
 thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
